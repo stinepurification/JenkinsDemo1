@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12486" started-at="2019-07-06T12:32:54Z" finished-at="2019-07-06T12:33:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12486" started-at="2019-07-06T12:32:54Z" finished-at="2019-07-06T12:33:06Z">
+      <class name="test.LoginTest">
+        <test-method status="PASS" signature="TechfiosLoginTest()[pri:0, instance:test.LoginTest@5622fdf]" name="TechfiosLoginTest" duration-ms="7873" started-at="2019-07-06T07:32:54Z" finished-at="2019-07-06T07:33:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TechfiosLoginTest -->
+        <test-method status="PASS" signature="TechfiosLoginTest2()[pri:0, instance:test.LoginTest@5622fdf]" name="TechfiosLoginTest2" duration-ms="4600" started-at="2019-07-06T07:33:02Z" finished-at="2019-07-06T07:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TechfiosLoginTest2 -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
