@@ -18,9 +18,9 @@ LoginPage logintotechfios= PageFactory.initElements(driver, LoginPage.class);
 
 logintotechfios.Login("techfiosdemo@gmail.com", "abc123");
 
-driver.close();
-
-driver.quit();
+//driver.close();
+//
+//driver.quit();
 
 }
 
