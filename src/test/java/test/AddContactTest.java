@@ -44,9 +44,9 @@ public void AddingContact()throws InterruptedException{
 	
 	contact.FillingUpAdressForm(Name, Company, Email, phone, address, City, State, Zip);
 
-//	driver.close();
-//	
-//	driver.quit();
+	driver.close();
+	
+	driver.quit();
 	
 }
 }
